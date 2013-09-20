@@ -1,8 +1,9 @@
-Ippa - Worms-style terrain with jaws.js
+Worms-style terrain with jaws.js - Ippa
+=======================================
 
-Chingu - Ruby game engine
-UnitJS - Clientside webframework
-Jaws.js - JS 2D game framework
+*Chingu* - Ruby game engine
+*UnitJS* - Clientside web framework
+*Jaws.js* - JS 2D game framework
 
 2D Canvas, Open source, no deps, about 50kB
 
@@ -17,7 +18,7 @@ Worms-style terrain it's an image
 you can paint your level and the worm will interact with the level...
 
 basics
-We nedd to get abbillity to get each pixel on the screen to do the collisions
+We need to get abbillity to get each pixel on the screen to do the collisions
 every pixels is represent by 4 int R/G/B/Alpha
 
 PLAY: http://jawsjs.com/ongamestart
@@ -35,4 +36,4 @@ destructive terrain
 - lossless format for colors
 
 
-homepage: ippa.se
+homepage: http://ippa.se/
