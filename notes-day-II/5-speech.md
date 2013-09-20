@@ -1,7 +1,7 @@
 MMO Action Game with HTML5  - Ivan Popelyshev
 =============================================
 
-judi@matroidgames.com
+*@ivanpopelyshev* - judi@matroidgames.com
 
 ---
 Funny game:
@@ -13,13 +13,13 @@ Funny game:
 - and attracted 2 million unique visitors from all over the world
 
 ---
-With no marketing
+### With no marketing
 - 300 thousand unique users daily on pear
 - a simple cloud server handler 2 thousand players on our engine
 - best web game 2013 - mozilla game-on
 
 ---
-Technologies
+### Technologies
 - java
 - play framework
 - google web toolkit

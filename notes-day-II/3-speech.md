@@ -1,7 +1,7 @@
 Making some noise: An in-depth look at the The Web Audio API - Jan Krutisch
 ===========================================================================
 
-Audio API support:
+### Audio API support:
 - Chrome
 - Safari (since 6 also on iOS6)
 - Firefox/Gecko 25

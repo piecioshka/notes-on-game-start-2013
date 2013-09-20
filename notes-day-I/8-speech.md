@@ -23,5 +23,4 @@ var renderer = new PIXI.autoDetectRenderer();
  - refine & imporove
  - tuts & maturity
 
-
 [1]: https://github.com/GoodBoyDigital/pixi.js/

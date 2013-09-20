@@ -41,13 +41,13 @@ QUESTION: what are you experience with Smart TV Alliance ?
  - low objects scaling efficiency (more objects = more lags)
 
 ---
-- problems
+### Problems
  - difference ways to build eficient bridge between js and native (windows phone - fast js from natvie, very slow native calls from js, slow js from native)
  - difference between internal work od DOM (windows Phone and Android)
  - which js interpreter to use?
 
 ---
-- solutions
+### Solutions
  - push as many data as we can (without direct rewuest) to js from native on windows phone,
  and pull as many data as we can on Android
  - caching DOM objects ----- how?

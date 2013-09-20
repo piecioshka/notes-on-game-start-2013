@@ -82,7 +82,7 @@ setTimeout(showMailPopup, 300);
  - avoid entry boxes in bottom half of screen
  - get creative!
 
-Future of Android
+### Future of Android
 - Chromium to power android WebView
 - amazon launched a Chromium bases WebView August 2013
  - available on ALL Androids v2.3 and above

@@ -7,7 +7,7 @@ Worms-style terrain with jaws.js - Ippa
 
 2D Canvas, Open source, no deps, about 50kB
 
-Why 2D Canvas
+### Why 2D Canvas
 - usually accelerated through 3D-hardware
 - many browsers support
 
@@ -23,17 +23,14 @@ every pixels is represent by 4 int R/G/B/Alpha
 
 PLAY: http://jawsjs.com/ongamestart
 
-step1
-one pixel on the bottom of square for collision detection
+### step1 - one pixel on the bottom of square for collision detection
 
-step2
-all pixels around bounding box for collision detection
+### step2 - all pixels around bounding box for collision detection
 
-final 
-destructive terrain
+### final - destructive terrain
 
 - no soft brushes
 - lossless format for colors
 
 
-homepage: http://ippa.se/
+Homepage: http://ippa.se/

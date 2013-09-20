@@ -60,7 +60,6 @@ QUESTION: what's is the most famous tool of debugging WebGL which you use?
 - security - OpenGL specifications have behavios left undefined to acheve the best performance
 - on the wev we cannot
 
-
 http://khronos.org/registry/webgl/specs/1.0<br />
 http://khronos.org/webgl/security<br />
 http://hacks.mozilla.org/2013/04/the-concepts-of-webgl<br />

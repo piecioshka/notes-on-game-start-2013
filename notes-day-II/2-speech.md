@@ -13,17 +13,17 @@ professional env
 They use GWT + Eclipse for web projects
 
 ---
-Pure JS Engines
+### Pure JS Engines
 - Play Canvas
 - Pixi.js
 
 ---
-PlayN - subsystem
+### PlayN - subsystem
 - still early state
 - good platform abstraction
 
 ---
-Best practices:
+### Best practices:
 - not support IE8 (Canvas)
 - webGL still not optimal for multi platform
 - problematic on tablets
