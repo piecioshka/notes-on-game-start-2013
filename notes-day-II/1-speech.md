@@ -10,24 +10,23 @@ Worms-style terrain with jaws.js - Ippa
 ### Why 2D Canvas
 - usually accelerated through 3D-hardware
 - many browsers support
-
-based on game states (public methods: setup/update/draw)
-adding assets 
+- based on game states (public methods: setup/update/draw)
+- adding assets
 
 Worms-style terrain it's an image
 you can paint your level and the worm will interact with the level...
 
-basics
-We need to get abbillity to get each pixel on the screen to do the collisions
+### Basics
+We need to get ability to get each pixel on the screen to do the collisions
 every pixels is represent by 4 int R/G/B/Alpha
 
 PLAY: http://jawsjs.com/ongamestart
 
-### step1 - one pixel on the bottom of square for collision detection
+### Step 1 - one pixel on the bottom of square for collision detection
 
-### step2 - all pixels around bounding box for collision detection
+### Step 2 - all pixels around bounding box for collision detection
 
-### final - destructive terrain
+### Final - destructive terrain
 
 - no soft brushes
 - lossless format for colors

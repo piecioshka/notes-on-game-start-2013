@@ -5,12 +5,12 @@ Get professional with HTML 5 - Wolfgang Litzlbauer (sproing Vienna)
 - *a lot of impressive console games*
 - *last 3 years - web games*
 
-professional env
+### Professional env
 - JS (but not optimal for large codebases - hard to master)
 - different languages? (Closure Compiler, Coffee Script, Dart, TypeScript, GWT)
 - C++ to JS compiler (via LLVM)
 
-They use GWT + Eclipse for web projects
+### They use GWT + Eclipse for web projects
 
 ---
 ### Pure JS Engines
@@ -39,7 +39,7 @@ Think native:
 - game must be listed in the AppStore
 - Packing tools tools like PhoneGap reduce game perf (dramatically)
 - use PlayN
-Expect the unexpective
+Expect the unexpected
 
 http://battleofcrowns.com - game looks really nice (only in German, but will be translate soon)
 

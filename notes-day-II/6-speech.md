@@ -1,4 +1,4 @@
-Ross McKegney - Demoinzation with Verold
+Demonization with Verold - Ross McKegney
 ========================================
 
 Prelegent: @rossmckegney - https://github.com/rossmckegney
@@ -13,6 +13,7 @@ CPU - I do all the thins!
 GPU - I only do one thing
 
 http://verold.com/ - @verold
-https://github.com/verold
-http://vimeo.com/verold
+
+https://github.com/verold<br />
+http://vimeo.com/verold<br />
 http://verold.com/blog
